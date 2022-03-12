@@ -1,7 +1,7 @@
 #include <stdio.h>
 
-/*
- *function main(void) - function main wont return any value
+/**
+ * main - Entry point
  *
  * Return: Always 0 (Success)
  */
